@@ -1,0 +1,13 @@
+@import "reset.css";
+@import "style.css";
+
+
+.main-article-par{
+    font-size: 16px;
+}
+.active{
+    color: tomato;
+}
+.active:hover{
+     color: gold;
+ }
